@@ -1,5 +1,13 @@
 # Pomodoro
 
+```
+   _____                         __
+  / ___/___  ___  ____  ______  / /___  ____  ____
+  \__ \/ _ \/ _ \/ __ \/ ___/ / / __ \/ __ \/ __ \
+ ___/ /  __/  __/ / / / /__  / / /_/ / /_/ / /_/ /
+/____/\___/\___/_/ /_/\___/ /_/\____/\____/\____/
+```
+
 A native SwiftUI Pomodoro timer for macOS with an Apple-style interface: a circular progress ring, large rounded digits, segmented mode picker, and a live countdown in the menu bar.
 
 ## Features
